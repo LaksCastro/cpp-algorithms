@@ -10,7 +10,7 @@
 
 ## Table of Contents
 1. Sort Algorithms  
-  1.1 [Insertion Sort - Sort Algorithm](https://github.com/LaksCastro/cpp-data-structures/tree/master/insertion-sort-algorithm)
+  1.1 [Insertion Sort - Sort Algorithm](https://github.com/LaksCastro/cpp-algorithms/tree/master/insertion-sort)
 
 ## Contributing
 See how to contribute [in CONTRIBUTING.md](/CONTRIBUTING.md)
