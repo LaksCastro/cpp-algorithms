@@ -1,7 +1,7 @@
-### Insertion Sort Algorithm theory
+- ### Insertion Sort Algorithm theory
 This algorithm means basically the follow: compare all elements of an array for each element of a array (this explain the combined "for" statement), where this comparation is relative, can be between a int, can be between a string, can between a **any struct.** If the comparation (can be any comparation, depending of your purpose) is true, change the values of the array positions.
 
-### Visual Explain
+- ### Visual Explain
 #### The logic
 ```
 for each [element I] in array:
