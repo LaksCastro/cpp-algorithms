@@ -1,4 +1,6 @@
-<img align="center" src="/assets/cpp-logo.png" width="45">
+<p align="center">
+  <img align="center" src="/assets/cpp-logo.png" width="45">
+</p>
 <h1 align="center">
   C++ Data Structures and Algorithms
 </h1>
