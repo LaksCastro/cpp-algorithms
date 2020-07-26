@@ -1,4 +1,4 @@
-### Insertion Sort Algorithm
+### Insertion Sort Algorithm theory
 This algorithm means basically the follow: compare all elements of an array for each element of a array (this explain the combined "for" statement), where this comparation is relative, can be between a int, can be between a string, can between a **any struct.** If the comparation is true, do the following: create a temp var that receive the "i" element of array, while the array[i] receive the array[j] and after, array[j] receive the temp var that is the old array[i] value.
 
 ### Visual Explain
