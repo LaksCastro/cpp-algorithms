@@ -32,11 +32,11 @@ int main() {
 
   printArray(array);
 
-  cout << "Starting the sort with Insertion Sort Algorithm" << endl;
+  cout << endl << "Starting the sort with Insertion Sort Algorithm" << endl;
 
   insertionSort(array);
 
-  cout << "Done, the sorted array is: " << endl;
+  cout << "Done, the sorted array is: " << endl << endl;
 
   printArray(array);
 
