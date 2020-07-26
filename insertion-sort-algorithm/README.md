@@ -90,23 +90,15 @@ for each [element I] in array:
 
 ### The Output of `main.cpp`
 ```
-Raw Array:                                                                                                            
-Element 0: 5                                                                                                          
-Element 1: 12                                                                                                         
-Element 2: 4                                                                                                          
-Element 3: 2                                                                                                          
-Element 4: 89                                                                                                         
-Element 5: 23                                                                                                         
-Element 6: 47                                                                                                         
-Element 7: 12                                                                                                         
-Starting the sort with Insertion Sort Algorithm                                                                       
-Done, the sorted array is:                                                                                            
-Element 0: 2                                                                                                          
-Element 1: 4                                                                                                          
-Element 2: 5                                                                                                          
-Element 3: 12                                                                                                         
-Element 4: 12                                                                                                         
-Element 5: 23
-Element 6: 47                                                                                                         
-Element 7: 89
+Raw Array:                                                                                                              
+Element 0: 3                                                                                                            
+Element 1: 6                                                                                                            
+Element 2: 1                                                                                                            
+Element 3: 8                                                                                                            
+Starting the sort with Insertion Sort Algorithm                                                                         
+Done, the sorted array is:                                                                                              
+Element 0: 1                                                                                                            
+Element 1: 3                                                                                                            
+Element 2: 6                                                                                                            
+Element 3: 8
 ```
