@@ -3,4 +3,4 @@ Here you will found implementations of many Algorithms and Data Structures, each
 
 ## Table of Contents
 1. Sort Algorithms  
-  1.1 [Insertion Sort - Sort Algorithm](/insertion-sort)
+  1.1 [Insertion Sort - Sort Algorithm](https://github.com/LaksCastro/cpp-data-structures/tree/master/insertion-sort-algorithm)
