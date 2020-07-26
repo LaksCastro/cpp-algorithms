@@ -2,9 +2,9 @@
 
 using namespace std;
 
-void printArray(int *array) {
-  int length = sizeof(array);
+int length;
 
+void printArray(int *array) {
   for (int i = 0; i < length; i++) {
     cout << "Element " << i << ": ";
     cout << *(array + i) << endl;
@@ -12,8 +12,6 @@ void printArray(int *array) {
 }
 
 void insertionSort(int *array) {
-  int length = sizeof(array);
-
   for (int i = 0; i < length; i++) {
     for (int j = 0; j < length; j++) {
       if (*(array + i) < *(array + j)) {
@@ -26,7 +24,9 @@ void insertionSort(int *array) {
 }
 
 int main() {
-  int array[] = {5, 12, 4, 2, 89, 23, 47, 12, 56};
+  int array[] = {3, 6, 1, 8};
+
+  length = sizeof(array) / sizeof(array[0]);
 
   cout << "Raw Array: " << endl;
 
