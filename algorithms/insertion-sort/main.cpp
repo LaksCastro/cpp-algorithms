@@ -4,20 +4,20 @@ using namespace std;
 
 int length;
 
-void printArray(int *array) {
+void printArray(int array[]) {
   for (int i = 0; i < length; i++) {
     cout << "Element " << i << ": ";
-    cout << *(array + i) << endl;
+    cout << array[i] << endl;
   }
 }
 
-void insertionSort(int *array) {
+void insertionSort(int array[]) {
   for (int i = 0; i < length; i++) {
     for (int j = 0; j < length; j++) {
-      if (*(array + i) < *(array + j)) {
-        int temp = *(array + i);
-        *(array + i) = *(array + j);
-        *(array + j) = temp;
+      if (array[i]  < array[j]) {
+        int temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
       }
     }
   }
